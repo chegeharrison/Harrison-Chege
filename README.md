@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harrison-Chege
 - 👀 I’m interested in Python,R, data science and Web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Email:chegeharrison10@gmail.com
 
 <!---
